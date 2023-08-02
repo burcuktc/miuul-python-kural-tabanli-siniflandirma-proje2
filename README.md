@@ -1,0 +1,1 @@
+# python-kural-tabanli-siniflandirma-proje2
